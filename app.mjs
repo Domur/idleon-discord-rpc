@@ -1,4 +1,3 @@
-
 import { WebSocketServer } from 'ws';
 import { init, setActivity } from './discord-rpc.mjs'
 

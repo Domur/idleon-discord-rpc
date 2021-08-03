@@ -10,8 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "discord-rpc": "^4.0.1",
-    "express": "^4.17.1",
-    "ps-node": "^0.1.6",
     "ws": "^8.0.0"
   },
   "devDependencies": {
